@@ -22,7 +22,7 @@ history: "outputs/history.xlsx"
 max_matches: 5
 partner_thres: 0
 partner_inter: 2 
-challenge_weight: 10 
+challenge_weight: 3
 needs_weight: 1
 geo_stage_weight: 100
 tech_weight: 1
